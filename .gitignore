@@ -1,8 +1,8 @@
-*/Debug/
-*/Release/
+**/Debug/
+**/Release/
 FibonacciHeap/FibonacciHeap/Project1/
 MatrixTransposition/CacheSimulator/
 RangeTrees/RangeTrees/test.txt
-*/Generator/
-*/x64/
-*/.vs/
+**/Generator/
+**/x64/
+**/.vs/
