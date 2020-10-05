@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SplayTree", "SplayTree\SplayTree.vcxproj", "{2426510F-D4C1-4E72-9322-4EC1CC66798F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Generator", "Generator\Generator.vcxproj", "{F22F526A-2107-49BB-B6A0-D90BEC0BA521}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2426510F-D4C1-4E72-9322-4EC1CC66798F}.Debug|x64.ActiveCfg = Debug|x64
+		{2426510F-D4C1-4E72-9322-4EC1CC66798F}.Debug|x64.Build.0 = Debug|x64
+		{2426510F-D4C1-4E72-9322-4EC1CC66798F}.Debug|x86.ActiveCfg = Debug|Win32
+		{2426510F-D4C1-4E72-9322-4EC1CC66798F}.Debug|x86.Build.0 = Debug|Win32
+		{2426510F-D4C1-4E72-9322-4EC1CC66798F}.Release|x64.ActiveCfg = Release|x64
+		{2426510F-D4C1-4E72-9322-4EC1CC66798F}.Release|x64.Build.0 = Release|x64
+		{2426510F-D4C1-4E72-9322-4EC1CC66798F}.Release|x86.ActiveCfg = Release|Win32
+		{2426510F-D4C1-4E72-9322-4EC1CC66798F}.Release|x86.Build.0 = Release|Win32
+		{F22F526A-2107-49BB-B6A0-D90BEC0BA521}.Debug|x64.ActiveCfg = Debug|x64
+		{F22F526A-2107-49BB-B6A0-D90BEC0BA521}.Debug|x64.Build.0 = Debug|x64
+		{F22F526A-2107-49BB-B6A0-D90BEC0BA521}.Debug|x86.ActiveCfg = Debug|Win32
+		{F22F526A-2107-49BB-B6A0-D90BEC0BA521}.Debug|x86.Build.0 = Debug|Win32
+		{F22F526A-2107-49BB-B6A0-D90BEC0BA521}.Release|x64.ActiveCfg = Release|x64
+		{F22F526A-2107-49BB-B6A0-D90BEC0BA521}.Release|x64.Build.0 = Release|x64
+		{F22F526A-2107-49BB-B6A0-D90BEC0BA521}.Release|x86.ActiveCfg = Release|Win32
+		{F22F526A-2107-49BB-B6A0-D90BEC0BA521}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
